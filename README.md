@@ -7,6 +7,7 @@ This is not a healthy way to start when doing TDD.
 Jumping to solutions quickly causes bias and leads to results that are needlessly complicated.
 In TDD it is healthy to take a step back and ignore implementation details until they become more obvious and evident.
 Taking a step back can be hard.
+This Learning Hour teaches test first thinking by providing guiding questions.
 
 ## Learning Objectives
 
