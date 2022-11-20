@@ -1,4 +1,4 @@
-# Test first thinking
+# Test First Thinking
 
 When you're not used to Test Driven Development and you start working on a new problem, a common pitfall is to immediately jump into the solution space and think about algorithms and data structures.
 You would then think: "How would my implementation code look like? I could do a loop!".
