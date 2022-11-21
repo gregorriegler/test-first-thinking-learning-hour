@@ -45,7 +45,7 @@ Lay out the helping Questions, and use them on a simple problem such as Arabic N
 	- Defines the API through arguments and a return value.
 - **What is an example how it would be used?**
 	- Now we get into defining a scenario.
-- **What is the easiest example you can think of?
+- **What is the easiest example you can think of?**
 	- Now we're getting to a good starting point.
 
 ### Concrete Practice - Leap Years
