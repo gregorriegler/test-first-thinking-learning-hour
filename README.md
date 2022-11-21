@@ -51,6 +51,8 @@ Lay out the helping Questions, and use them on a simple problem such as Arabic N
 ### Concrete Practice - Leap Years
 Instruct the participants to form the same groups and use those 4 Questions on the Leap Years Kata.
 The Goal is to come up with a good first Test case. Bonus is, if it compiles and fails.
+Starting Point, Leap Years: https://cyber-dojo.org/creator/choose_ltf?exercise_name=Leap%20Years
+If there is time left, try something more difficult with Tic Tac Toe: https://codingdojo.org/kata/tic-tac-toe/
 
 ### Conclusion
 Have the participants explain in their own words what they think they need to focus on when starting Test-First.
