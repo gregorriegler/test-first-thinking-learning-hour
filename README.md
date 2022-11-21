@@ -11,7 +11,7 @@ This Learning Hour teaches test first thinking by providing guiding questions.
 ## Learning Objectives
 
 - Thinking in terms of test-code rather than production-code when tackling a problem.
-- Being able to write a first test case for systems that are "pure" as in "pure function" thus have an input and an output and no side-effects.
+- Being able to write a first test case for simple systems. (Systems that have an input and an output).
 
 ## Session Outline
 
@@ -53,6 +53,7 @@ Instruct the participants to form the same groups and use those 4 Questions on t
 The Goal is to come up with a good first Test case. Bonus is, if it compiles and fails.
 Starting Point, Leap Years: https://cyber-dojo.org/creator/choose_ltf?exercise_name=Leap%20Years
 If there is time left, try something more difficult with Tic Tac Toe: https://codingdojo.org/kata/tic-tac-toe/
+Those are katas we can solve using pure functions. 
 
 ### Conclusion
 Have the participants explain in their own words what they think they need to focus on when starting Test-First.
