@@ -23,7 +23,7 @@ This Learning Hour teaches test first thinking by providing guiding questions.
 
 ### Connect - Test After
 Recall existing testing skills by writing a test for a code that already exists.
-Show the pseudocode of a function called `add` that adds two numbers and returns the result.
+Show the pseudocode of a function called `add` [add pseudocode](./add-pseudocode.md) that adds two numbers and returns the result.
 Ask the participants to get into small groups and write a simple test case for that function in pseudo code.
 Make it clear that the test is supposed to be pseudo code and it doesn't have to compile.
 The goal is to have the test contain everything a typical test-case does.
