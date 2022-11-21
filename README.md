@@ -37,7 +37,7 @@ Make them question the test.
 AAA is not the focus of this exercise, but it is necessary that the participants understand what a test case looks like.
 
 ### Concept - Questions that help focus on the problem rather than the solution
-Lay out the helping Questions, and use them on a simple problem such as Arabic Numbers to Roman Numerals conversion
+Lay out the helping Questions, and use them on a simple problem such as Leap Years
 
 - **What is the name of the thing that we want to build?** 
 	- Gives it a Name!
@@ -48,10 +48,10 @@ Lay out the helping Questions, and use them on a simple problem such as Arabic N
 - **What is the easiest example you can think of?**
 	- Now we're getting to a good starting point.
 
-### Concrete Practice - Leap Years
+### Concrete Practice - Roman Numerals
 Instruct the participants to form the same groups and use those 4 Questions on the Leap Years Kata.
 The Goal is to come up with a good first Test case. Bonus is, if it compiles and fails.
-Starting Point, Leap Years: https://cyber-dojo.org/creator/choose_ltf?exercise_name=Leap%20Years
+Starting Point, Roman Numerals: https://cyber-dojo.org/creator/choose_ltf?exercise_name=Roman%20Numerals
 If there is time left, try something more difficult with Tic Tac Toe: https://codingdojo.org/kata/tic-tac-toe/
 Those are katas we can solve using pure functions. 
 
