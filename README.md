@@ -1,11 +1,10 @@
 # Test First Thinking
 
-When you're not used to Test Driven Development and you start working on a new problem, a common pitfall is to immediately jump into the solution space and think about algorithms and data structures.
-You would then think: "How would my implementation code look like? I could do a loop!".
-The thinking might even lead to writing implementation code inside the test-case.
-This is not a healthy way to start when doing TDD.
-Jumping to solutions quickly causes bias and leads to results that are needlessly complicated.
-In TDD it is healthy to take a step back and ignore implementation details until they become more obvious and evident.
+When you're not used to Test Driven Development and you start working on a new problem, a common pitfall is to immediately jump to the solution space and think about algorithms and data structures.
+You would then think: "How to implement this? I could do a loop!".
+This thinking might even lead to writing implementation code in the test-case.
+Jumping to solutions quickly causes bias and needlessly complicated solutions.
+It is healthy to take a step back and ignore implementation details until they become more obvious and evident.
 Taking a step back can be hard.
 This Learning Hour teaches test first thinking by providing guiding questions.
 
@@ -16,11 +15,11 @@ This Learning Hour teaches test first thinking by providing guiding questions.
 
 ## Session Outline
 
-- 5 min connect: Test After: Testing an already written Code
+- 5 min connect: Test After: Testing an already written code.
 - 5 min connect: Teamreview
 - 10 min concept: Questions that help focus on the problem rather than the solution
 - 25 min concrete practice: Leap Years
-- 5 min conclusion: Explain in own Words
+- 5 min conclusion: Explain in own words
 
 ### Connect - Test After
 Recall existing testing skills by writing a test for a code that already exists.
