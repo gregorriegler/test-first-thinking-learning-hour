@@ -18,7 +18,7 @@ This Learning Hour teaches test first thinking by providing guiding questions.
 - 5 min connect: Test After: Testing an already written code.
 - 5 min connect: Teamreview
 - 10 min concept: Questions that help focus on the problem rather than the solution
-- 25 min concrete practice: Leap Years
+- 25 min concrete practice: Roman Numerals
 - 5 min conclusion: Explain in own words
 
 ### Connect - Test After
@@ -49,7 +49,7 @@ Lay out the helping Questions, and use them on a simple problem such as Leap Yea
 	- Now we're getting to a good starting point.
 
 ### Concrete Practice - Roman Numerals
-Instruct the participants to form the same groups and use those 4 Questions on the Leap Years Kata.
+Instruct the participants to form the same groups and use those 4 Questions on the Roman Numerals Kata.
 The Goal is to come up with a good first Test case. Bonus is, if it compiles and fails.
 Starting Point, Roman Numerals: https://cyber-dojo.org/creator/choose_ltf?exercise_name=Roman%20Numerals
 If there is time left, try something more difficult with Tic Tac Toe: https://codingdojo.org/kata/tic-tac-toe/
