@@ -1,12 +1,10 @@
 # Test First Thinking
 
-When you're not used to TDD and you start working on a new problem, a common pitfall is to prematurely jump to the solution space and think in terms of algorithms and data structures.
-You would then think: "I could do a loop!".
-This thinking might even lead you to write implementation code inside the test case.
-Jumping to solutions quickly causes bias and needlessly complicated solutions.
-It is healthy to take a step back and ignore implementation details until they become more evident.
-Taking a step back can be hard.
-This Learning Hour teaches test-first thinking by providing guiding questions.
+When you're new to TDD, it's easy to jump to solutions too quickly. 
+You might start thinking about algorithms and data structures before fully understanding the problem. 
+This can lead to bias and complicated solutions. 
+Instead, it's better to take a step back and ignore implementation details until they become clear. 
+This learning hour teaches test-first thinking with guiding questions.
 
 ## Learning Objectives
 
