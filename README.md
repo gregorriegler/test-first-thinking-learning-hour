@@ -13,7 +13,7 @@ This learning hour teaches test-first thinking with guiding questions.
 
 ## Session Outline
 
-- 5 min connect Test After Testing an already written code.
+- 5 min connect: Test After Testing an already written code.
 - 5 min connect: Team review
 - 10 min concept: Questions that help focus on the problem rather than the solution
 - 25 min concrete practice: Roman Numerals
